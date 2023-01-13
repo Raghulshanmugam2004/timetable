@@ -116,11 +116,12 @@ Execute the program
 ```
 
 # OUPUT
-![OUTPUT]![image](https://user-images.githubusercontent.com/119561118/212242849-d58e3088-8e11-40ff-a057-7ec2ecbe5bd6.png)
+![image](https://user-images.githubusercontent.com/119561118/212242849-d58e3088-8e11-40ff-a057-7ec2ecbe5bd6.png)
 
 
 # HTML VALIDATOR
-![HTML VALIDATOR]
+![image](https://user-images.githubusercontent.com/119561118/212243126-c9e1fad4-ab53-40e7-bff7-181d00c4a190.png)
+
 
 
 # RESULT
