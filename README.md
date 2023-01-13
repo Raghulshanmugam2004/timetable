@@ -116,11 +116,11 @@ Execute the program
 ```
 
 # OUPUT
-![OUTPUT](http://raghul.s.student.saveetha.in:8000/static/images/output.png?raw=true)
+![OUTPUT]![image](https://user-images.githubusercontent.com/119561118/212242849-d58e3088-8e11-40ff-a057-7ec2ecbe5bd6.png)
 
 
 # HTML VALIDATOR
-![HTML VALIDATOR](http://raghul.s.student.saveetha.in:8000/static/images/validhtml.png?raw=true)
+![HTML VALIDATOR]
 
 
 # RESULT
